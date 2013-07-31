@@ -1,13 +1,13 @@
 
 class Kitchen
 {
-    lightbulb = Lighbulb(BURNT_OUT);
+    lightbulb = Lighbulb(NEW);
 };
 
 
 class Cupboard
 {
-    inventory[] = {Lighbulb(NEW)};
+    inventory[] = {};
 
     shelf.screws[0] = OK;
 };
