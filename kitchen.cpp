@@ -4,6 +4,7 @@ class Kitchen
     lightbulb = Lighbulb(BURNT_OUT);
 };
 
+new Sink();
 
 class Cupboard
 {
