@@ -24,7 +24,7 @@ class Drawer
 
 
 class WD40 {
-    availalbe = 0;
+    availalbe = 100;
 };
 
 
