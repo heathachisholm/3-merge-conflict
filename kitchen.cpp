@@ -9,7 +9,7 @@ class Cupboard
 {
     inventory[] = {Lighbulb(NEW)};
 
-    shelf.screws[0] = UNSCREWED;
+    shelf.screws[0] = OK;
 };
 
 
