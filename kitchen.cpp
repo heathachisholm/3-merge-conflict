@@ -18,7 +18,7 @@ class Drawer
     inventory[] = {Screwdriver()};
 
     void open() {
-        make_squeaky_noise();
+        //make_squeaky_noise();
     }
 };
 
@@ -30,6 +30,6 @@ class WD40 {
 
 class Car {
     void start() {
-        make_funny_noises();
+        //make_funny_noises();
     }
 };
