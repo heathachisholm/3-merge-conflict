@@ -4,6 +4,7 @@ class Kitchen
     lightbulb = Lighbulb(NEW);
 };
 
+new Sink();
 
 class Cupboard
 {
@@ -24,7 +25,11 @@ class Drawer
 
 
 class WD40 {
+<<<<<<< HEAD
     availalbe = 100;
+=======
+    availalbe = 75;
+>>>>>>> jk
 };
 
 
